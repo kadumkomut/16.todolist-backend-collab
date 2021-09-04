@@ -1,0 +1,13 @@
+get method
+https://todolist-kadum.herokuapp.com/gettodo
+
+patch method
+value=text
+https://todolist-kadum.herokuapp.com/updatetodo/:id
+
+delete method
+https://todolist-kadum.herokuapp.com/deletetodo/:id
+
+post method
+value=text
+https://todolist-kadum.herokuapp.com/addtodo
